@@ -17,8 +17,6 @@
 压缩图片： gulp images
 ```
 
-## [项目地址](https://github.com/vincentSea/gulp-cli)
-* 如对你有帮助，希望给个Star ！哈哈哈！！
 ```
 git clone https://github.com/vincentSea/gulp-cli.git
 ```
