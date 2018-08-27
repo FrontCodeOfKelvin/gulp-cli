@@ -17,10 +17,6 @@
 压缩图片： gulp images
 ```
 
-```
-git clone https://github.com/vincentSea/gulp-cli.git
-```
-
 ## 项目目录
 ```
 ├── README.md         # 项目说明
